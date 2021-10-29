@@ -6,13 +6,12 @@
 body{
     background-image: url("http://www.ideasphere.com/wp-content/uploads/2016/08/Savin-NY-Website-Background-Web-1.jpg");
     background-repeat: no-repeat;
+    height:100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .card{
-    position: relative;
-    top: 120px;
     background-color:rgb(0 225 255 / 26%);
     border-radius: 10px;
     width: 350px;
